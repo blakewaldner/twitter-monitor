@@ -1,0 +1,147 @@
+{
+  "1": [
+    "ffb6c1",
+    "Example | @byHypeHQ",
+    "https://i.imgur.com/TBvaO3n.png"
+  ],
+  "2": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+ "3": [
+     "ff0000",
+    "**REDACTED COMPANY**",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+  "4": [
+    "AA00FF",
+    "**REDACTED COMPANY**",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+  "5": [
+    "5753cd",
+    "**REDACTED COMPANY**",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+  "6": [
+    "AA00FF",
+    "**REDACTED COMPANY**",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+  "7": [
+    "577590",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+ "8": [
+    "5753cd",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+  "9": [
+    "AA00FF",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+ "10": [
+    "32CAFF",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+ "11": [
+    "32CAFF",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+ "12": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+ "13": [
+    "dcfed8",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+ "14": [
+     "771ad8",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+ "15": [
+    "F47D5C",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+  "16": [
+    "800080",
+    "**REDACTED COMPANY**",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+ "17": [
+    "F79494",
+    "**REDACTED COMPANY**",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+  "18": [
+     "F79494",
+    "**REDACTED COMPANY**",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+"19": [
+    "9880EE",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+"20": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+"21": [
+    "89cff0",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ],
+"22": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+"23": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+"24": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+"25": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+"26": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+"27": [
+    "000000",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+"28": [
+     "AA00FF",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+   ],
+"29": [
+    "9880EE",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**"
+  ]
+}
