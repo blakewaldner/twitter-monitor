@@ -1,2 +1,2 @@
 # twitter-monitor
-itter Monitor to notify clients of limited merchandise releases
+Request-based Java application leveraging threads, API integration, HTML scraping, and OCR techniques to monitor and notify users of limited merchandise released via Twitter
